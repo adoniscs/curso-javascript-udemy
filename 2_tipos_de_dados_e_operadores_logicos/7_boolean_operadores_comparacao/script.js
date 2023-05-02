@@ -1,0 +1,10 @@
+console.log(1 > 2);
+console.log(5 < 9);
+console.log(10 >= 20);
+console.log(5 <= 5.0);
+console.log(4 == 4.0);
+console.log(5 == "5");
+console.log(5 === "5");
+console.log(4 === 4.0);
+console.log(4 != "4");
+console.log(3 !== "3");
